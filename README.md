@@ -25,5 +25,5 @@ Täglicher Nachrichten-Digest via Telegram, gebaut mit n8n (RSS → Telegram).
 
 ## Dokumentation
 
-### IT-Lernplan (Notion - https://peridot-rubidium-a93.notion.site/2b01260a27bf809e9cc7d033f51dd461?v=2b01260a27bf808fa424000caea9e9fd&source=copy_link
+### IT-Lernplan Notion - https://peridot-rubidium-a93.notion.site/2b01260a27bf809e9cc7d033f51dd461?v=2b01260a27bf808fa424000caea9e9fd&source=copy_link
 Strukturierte Lernplanung: Themen, Fortschritt und Ressourcen.
